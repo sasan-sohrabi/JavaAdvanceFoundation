@@ -32,7 +32,7 @@ public class CarTest {
             if (isCarStarted && isDoorClose) {
                 System.out.println("Car is going!");
             }else {
-                System.out.println("Car is stop yet!");
+                System.out.println("Car is stop yet!!");
             }
         }
     }
